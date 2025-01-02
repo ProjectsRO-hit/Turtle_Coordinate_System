@@ -11,7 +11,7 @@ This game features:
 
 A video demonstration of the game is available to give you a quick overview of how the game looks and functions:
 
-[Watch the Turtle Racing Video](path/to/your/video.mp4)
+[Watch the Turtle Racing Video](recording/Python Turtle Graphics 2025-01-02 13-07-24.mp4)
 
 ## Requirements
 
