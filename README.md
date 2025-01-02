@@ -22,4 +22,4 @@ A video demonstration of the game is available to give you a quick overview of h
 
 1. **Clone the repository** or download the project files:
    ```bash
-   git clone [repository-url]
+   git clone (https://github.com/ProjectsRO-hit/Turtle_Coordinate_System.git)
