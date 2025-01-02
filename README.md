@@ -11,7 +11,7 @@ This game features:
 
 A video demonstration of the game is available to give you a quick overview of how the game looks and functions:
 
-[Watch the Turtle Racing Video]([recording/Python Turtle Graphics 2025-01-02 13-07-24.mp4](https://github.com/ProjectsRO-hit/Turtle_Coordinate_System/blob/985db978f64765da62ceb818673760518331e674/recording/Python%20Turtle%20Graphics%202025-01-02%2013-07-24.mp4))
+[Watch the Turtle Racing Video](https://github.com/ProjectsRO-hit/Turtle_Coordinate_System/blob/985db978f64765da62ceb818673760518331e674/recording/Python%20Turtle%20Graphics%202025-01-02%2013-07-24.mp4)
 
 ## Requirements
 
